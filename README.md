@@ -11,26 +11,25 @@
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Progressive Enhancement**       |      |  |  |    |                |                 |
+|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] |  |     |                |                 |
+|**GitHub**                        | ![done][done]     | ![done][done] |  |   |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] |  |                  |                |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] |  |                  |                |                 |
+|**Git/Git CLI**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Markdown**                      | ![done][done]     | ![done][done] |  |   | |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
+|**Angular 4**                     |     |               |               |                  |                |                 |
+|**Task runners Gulp/Grunt**       |     |               |               |                  |                |                 |
 |**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
-|**AJAX**                          | ![done][done]     |               |               |                  |                |          .      |
+|**AJAX**                          | ![done][done]     |     ![done][done]           |               |                  |                |          .      |
 
 ----
 
@@ -148,7 +147,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
-* [ ] Write tests for your code
+* [x] Write tests for your code
 * [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
@@ -156,7 +155,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Open your browser console
 * [x] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
 * [x] Complete a technical interview
