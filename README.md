@@ -100,7 +100,7 @@
 [fundamentals of react]: https://tylermcginnis.com/free-react-bootcamp/
 [tyler mcginnis]: https://tylermcginnis.com/free-react-bootcamp/
 [mongodb]: https://www.thenetninja.co.uk/
-[express]: https://www.thenetninja.co.uk/
+[express.js]: https://www.thenetninja.co.uk/
 [node.js tutorial]: https://www.thenetninja.co.uk/
 [the net ninja]: https://www.thenetninja.co.uk/
 [front-end web developer nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
@@ -137,6 +137,7 @@
 [scrimba]: https://scrimba.com/
 [kent c dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
+[react and redux]: https://www.udemy.com
 
 ### Paths
 
