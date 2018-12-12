@@ -9,16 +9,16 @@
 |            Skill            | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
 | :-------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
 |          **HTML5**          |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
-|          **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |              |
+|          **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |              |
 |       **JavaScript**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 |          **React**          |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
-|          **Redux**          |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
-|          **Jest**           |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+|          **Redux**          |   ![done][done]   | ![done][done] |               |                  |                |              |
+|          **Jest**           |   ![done][done]   | ![done][done] |               |                  |                |              |
 |    **Styled Components**    |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 |         **Node.js**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 |       **Express.js**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
-|         **MongoDB**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
-|          **MySQL**          |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
+|         **MongoDB**         |   ![done][done]   | ![done][done] |               |                  |                |              |
+|          **MySQL**          |   ![done][done]   | ![done][done] |               |                  |                |              |
 |           **PHP**           |   ![done][done]   | ![done][done] |               |                  |                |              |
 |           **NPM**           |   ![done][done]   | ![done][done] |               |                  |                |              |
 |          **Yarn**           |   ![done][done]   | ![done][done] |               |                  |                |              |
