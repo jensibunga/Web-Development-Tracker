@@ -81,7 +81,9 @@
 |        ![Soon][soon]        |      | [JavaScript30]                              |            [Wes Bos]             |
 |        ![Soon][soon]        |      | Read [JavaScript & jQuery]                  |           Jon Duckett            |
 
-| ![Soon][soon] | | Read JavaScript: The Good Parts | Douglas Crockford | | ![Soon][soon] | | Read [You Don't know JavaScript] | Kyle Simpson | | ![Soon][soon] | | [Learn CSS Grid] | [Per Harald Borgen] - [Scrimba] |
+|        ![Soon][soon]        |      | Read JavaScript: The Good Parts .           |         Douglas Crockford        | 
+|        ![Soon][soon]        |      | Read [You Don't know JavaScript]            |         Kyle Simpson             | 
+|        ![Soon][soon]        |      | [Learn CSS Grid]                            | [Per Harald Borgen] - [Scrimba]  |
 
 [//]: # 'Reference links to courses'
 [html, css, javascript]: https://core.restart.network/
