@@ -65,6 +65,7 @@
 |   ![Completed][completed]   |      | [Database and ERD]                          |    [Restart Network Bootcamp]    |
 |   ![Completed][completed]   |      | [API]                                       |    [Restart Network Bootcamp]    |
 |   ![Completed][completed]   |      | [Web Fundamentals][html, css, javascript]   |    [Restart Network Bootcamp]    |
+| ![In progress][in progress] |      | [Learn CSS Grid]                            | [Per Harald Borgen] - [Scrimba]  |
 | ![In progress][in progress] |      | [React and Redux]                           |             [Udemy]              |
 |        ![Soon][soon]        |      | [The Beginner's Guide to Reactjs]           |  [Kent C Dodds] - [egghead.io]   |
 |        ![Soon][soon]        |      | [Workflow Tools for Web Developers]         | [Christina Truong] - [Lynda.com] |
@@ -82,7 +83,7 @@
 |        ![Soon][soon]        |      | Read [JavaScript & jQuery]                  |           Jon Duckett            |
 |        ![Soon][soon]        |      | Read JavaScript: The Good Parts .           |         Douglas Crockford        | 
 |        ![Soon][soon]        |      | Read [You Don't know JavaScript]            |         Kyle Simpson             | 
-|        ![Soon][soon]        |      | [Learn CSS Grid]                            | [Per Harald Borgen] - [Scrimba]  |
+
 
 [//]: # 'Reference links to courses'
 [html, css, javascript]: https://core.restart.network/
