@@ -56,9 +56,9 @@
 |   ![Competed][completed]    | 2019   | [SASS/SCSS Tutorial]                        |         [The Net Ninja]          |
 |   ![Completed][completed]   | 2018   | [Official React Tutorial]                   |             [React]              |
 |   ![Completed][completed]   | 2018   | Read [Eloquent JavaScript]                  |        [Marijn Haverbeke]        |
-|   ![Completed][completed]   | 2018]  | [Fundamentals of React]                     |         [Tyler McGinnis]         |
-|   ![Completed][completed]   | 2018]  | [MongoDB]                                   |         [The Net Ninja]          |
-|   ![Completed][completed]   | 2018]  | [Express.js]                                |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2018   | [Fundamentals of React]                     |         [Tyler McGinnis]         |
+|   ![Completed][completed]   | 2018   | [MongoDB]                                   |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2018   | [Express.js]                                |         [The Net Ninja]          |
 |   ![Completed][completed]   | 2018   | [Node.js Tutorial]                          |         [The Net Ninja]          |
 |   ![Completed][completed]   | 2018   | [Laravel framework]                         |           [Laracasts]            |
 |   ![Completed][completed]   | 2017   | [Code Igniter PHP framework]                |    [Restart Network Bootcamp]    |
