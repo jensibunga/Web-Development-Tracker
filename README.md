@@ -88,6 +88,9 @@
 |        ![Soon][soon]        |        | [Learn CSS Grid]                            | [Per Harald Borgen] - [Scrimba]  |
 
 [//]: # 'Reference links to courses'
+[basic javascript]: https://scrimba.com/
+[bem css tutorial]:  https://www.youtube.com/watch?v=Ysf0LhP8jus
+[sass/scss tutorial]: https://www.thenetninja.co.uk/
 [html, css, javascript]: https://core.restart.network/
 [php fundamentals]: https://core.restart.network/
 [sql and mysql]: https://core.restart.network/
