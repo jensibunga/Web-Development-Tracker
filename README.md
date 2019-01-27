@@ -51,23 +51,23 @@
 
 |           Status            | Year   | Course                                      |          Tutor/Resource          |
 | :-------------------------: | :----- | :------------------------------------------ | :------------------------------: |
-|   ![Competed][completed]    | [2019] | [Basic Javascript]                          |            [Scrimba]             |
-|   ![Competed][completed]    | [2019] | [BEM CSS Tutorial ]                         |         [Reval Govendar]         |
-|   ![Competed][completed]    | [2019] | [SASS/SCSS Tutorial]                        |         [The Net Ninja]          |
-|   ![Completed][completed]   | [2018] | [Official React Tutorial]                   |             [React]              |
-|   ![Completed][completed]   | [2018] | Read [Eloquent JavaScript]                  |        [Marijn Haverbeke]        |
-|   ![Completed][completed]   | [2018] | [Fundamentals of React]                     |         [Tyler McGinnis]         |
-|   ![Completed][completed]   | [2018] | [MongoDB]                                   |         [The Net Ninja]          |
-|   ![Completed][completed]   | [2018] | [Express.js]                                |         [The Net Ninja]          |
-|   ![Completed][completed]   | [2018] | [Node.js Tutorial]                          |         [The Net Ninja]          |
-|   ![Completed][completed]   | [2018] | [Laravel framework]                         |           [Laracasts]            |
-|   ![Completed][completed]   | [2017] | [Code Igniter PHP framework]                |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   | [2017] | [Git and Github]                            |         [The Net Ninja]          |
-|   ![Completed][completed]   | [2017] | [PHP Fundamentals]                          |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   | [2017] | [SQL and MySQL]                             |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   | [2017] | [Database and ERD]                          |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   | [2017] | [API]                                       |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   | [2017] | [Web Fundamentals][html, css, javascript]   |    [Restart Network Bootcamp]    |
+|   ![Competed][completed]    | 2019   | [Basic Javascript]                          |            [Scrimba]             |
+|   ![Competed][completed]    | 2019   | [BEM CSS Tutorial ]                         |         [Reval Govendar]         |
+|   ![Competed][completed]    | 2019   | [SASS/SCSS Tutorial]                        |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2018   | [Official React Tutorial]                   |             [React]              |
+|   ![Completed][completed]   | 2018   | Read [Eloquent JavaScript]                  |        [Marijn Haverbeke]        |
+|   ![Completed][completed]   | 2018]  | [Fundamentals of React]                     |         [Tyler McGinnis]         |
+|   ![Completed][completed]   | 2018]  | [MongoDB]                                   |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2018]  | [Express.js]                                |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2018   | [Node.js Tutorial]                          |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2018   | [Laravel framework]                         |           [Laracasts]            |
+|   ![Completed][completed]   | 2017   | [Code Igniter PHP framework]                |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | 2017   | [Git and Github]                            |         [The Net Ninja]          |
+|   ![Completed][completed]   | 2017   | [PHP Fundamentals]                          |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | 2017   | [SQL and MySQL]                             |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | 2017   | [Database and ERD]                          |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | 2017   | [API]                                       |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | 2017   | [Web Fundamentals][html, css, javascript]   |    [Restart Network Bootcamp]    |
 | ![In progress][in progress] |        | [React and Redux]                           |             [Udemy]              |
 |        ![Soon][soon]        |        | [The Beginner's Guide to Reactjs]           |  [Kent C Dodds] - [egghead.io]   |
 |        ![Soon][soon]        |        | [Workflow Tools for Web Developers]         | [Christina Truong] - [Lynda.com] |
