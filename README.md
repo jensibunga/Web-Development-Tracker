@@ -27,7 +27,7 @@
 |    **Responsive design**    |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 |      **Mobile first**       |   ![done][done]   | ![done][done] |               |                  |                |              |
 | **Progressive Enhancement** |                   |               |               |                  |                |              |
-|   **Css Grid & Flex-box**   |   ![done][done]   | ![done][done] |               |                  |                |              |
+|   **CSS Grid & Flex-box**   |   ![done][done]   | ![done][done] |               |                  |                |              |
 |         **GitHub**          |   ![done][done]   | ![done][done] |               |                  |                |              |
 |        **Bootstrap**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |              |
 |         **jQuery**          |   ![done][done]   | ![done][done] |               |                  |                |              |
@@ -49,39 +49,43 @@
 [in progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png 'In Progress'
 [soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png 'Soon'
 
-|           Status            | Year | Course                                      |          Tutor/Resource          |
-| :-------------------------: | :--- | :------------------------------------------ | :------------------------------: |
-|   ![Completed][completed]   |      | [Official React Tutorial]                   |             [React]              |
-|   ![Completed][completed]   |      | Read [Eloquent JavaScript]                  |        [Marijn Haverbeke]        |
-|   ![Completed][completed]   |      | [Fundamentals of React]                     |         [Tyler McGinnis]         |
-|   ![Completed][completed]   |      | [MongoDB]                                   |         [The Net Ninja]          |
-|   ![Completed][completed]   |      | [Express.js]                                |         [The Net Ninja]          |
-|   ![Completed][completed]   |      | [Node.js Tutorial]                          |         [The Net Ninja]          |
-|   ![Completed][completed]   |      | [Laravel framework]                         |           [Laracasts]            |
-|   ![Completed][completed]   |      | [Code Igniter PHP framework]                |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   |      | [Git and Github]                            |         [The Net Ninja]          |
-|   ![Completed][completed]   |      | [PHP Fundamentals]                          |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   |      | [SQL and MySQL]                             |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   |      | [Database and ERD]                          |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   |      | [API]                                       |    [Restart Network Bootcamp]    |
-|   ![Completed][completed]   |      | [Web Fundamentals][html, css, javascript]   |    [Restart Network Bootcamp]    |
-| ![In progress][in progress] |      | [React and Redux]                           |             [Udemy]              |
-|        ![Soon][soon]        |      | [The Beginner's Guide to Reactjs]           |  [Kent C Dodds] - [egghead.io]   |
-|        ![Soon][soon]        |      | [Workflow Tools for Web Developers]         | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |      | [Learning Git and GitHub]                   |  [Ray Villalobos] - [Lynda.com]  |
-|        ![Soon][soon]        |      | [CSS Essential Training 3]                  | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |      | [CSS Essential Training 2]                  | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |      | [Getting Your Website Online]               | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |      | [Learn Enough Command Line to Be Dangerous] |         [Michael Hartl]          |
-|        ![Soon][soon]        |      | [Basic Front End Development Projects]      |         [Free Code Camp]         |
-|        ![Soon][soon]        |      | [The Web Developer Bootcamp - Frond End]    |      Colt Steele - [Udemy]       |
-|        ![Soon][soon]        |      | [Front-End Web Developer Nanodegree]        |  [Udacity] - Google Scholarship  |
-|        ![Soon][soon]        |      | [JavaScript and React for Developers]       |   [Cassidy Williams] - [Udemy]   |
-|        ![Soon][soon]        |      | [Front End Development]                     |         [Free Code Camp]         |
-|        ![Soon][soon]        |      | [JavaScript30]                              |            [Wes Bos]             |
-|        ![Soon][soon]        |      | Read [JavaScript & jQuery]                  |           Jon Duckett            |
-
-| ![Soon][soon] | | Read JavaScript: The Good Parts | Douglas Crockford | | ![Soon][soon] | | Read [You Don't know JavaScript] | Kyle Simpson | | ![Soon][soon] | | [Learn CSS Grid] | [Per Harald Borgen] - [Scrimba] |
+|           Status            | Year   | Course                                      |          Tutor/Resource          |
+| :-------------------------: | :----- | :------------------------------------------ | :------------------------------: |
+|   ![Competed][completed]    | [2019] | [Basic Javascript]                          |            [Scrimba]             |
+|   ![Competed][completed]    | [2019] | [BEM CSS Tutorial ]                         |         [Reval Govendar]         |
+|   ![Competed][completed]    | [2019] | [SASS/SCSS Tutorial]                        |         [The Net Ninja]          |
+|   ![Completed][completed]   | [2018] | [Official React Tutorial]                   |             [React]              |
+|   ![Completed][completed]   | [2018] | Read [Eloquent JavaScript]                  |        [Marijn Haverbeke]        |
+|   ![Completed][completed]   | [2018] | [Fundamentals of React]                     |         [Tyler McGinnis]         |
+|   ![Completed][completed]   | [2018] | [MongoDB]                                   |         [The Net Ninja]          |
+|   ![Completed][completed]   | [2018] | [Express.js]                                |         [The Net Ninja]          |
+|   ![Completed][completed]   | [2018] | [Node.js Tutorial]                          |         [The Net Ninja]          |
+|   ![Completed][completed]   | [2018] | [Laravel framework]                         |           [Laracasts]            |
+|   ![Completed][completed]   | [2017] | [Code Igniter PHP framework]                |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | [2017] | [Git and Github]                            |         [The Net Ninja]          |
+|   ![Completed][completed]   | [2017] | [PHP Fundamentals]                          |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | [2017] | [SQL and MySQL]                             |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | [2017] | [Database and ERD]                          |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | [2017] | [API]                                       |    [Restart Network Bootcamp]    |
+|   ![Completed][completed]   | [2017] | [Web Fundamentals][html, css, javascript]   |    [Restart Network Bootcamp]    |
+| ![In progress][in progress] |        | [React and Redux]                           |             [Udemy]              |
+|        ![Soon][soon]        |        | [The Beginner's Guide to Reactjs]           |  [Kent C Dodds] - [egghead.io]   |
+|        ![Soon][soon]        |        | [Workflow Tools for Web Developers]         | [Christina Truong] - [Lynda.com] |
+|        ![Soon][soon]        |        | [Learning Git and GitHub]                   |  [Ray Villalobos] - [Lynda.com]  |
+|        ![Soon][soon]        |        | [CSS Essential Training 3]                  | [Christina Truong] - [Lynda.com] |
+|        ![Soon][soon]        |        | [CSS Essential Training 2]                  | [Christina Truong] - [Lynda.com] |
+|        ![Soon][soon]        |        | [Getting Your Website Online]               | [Christina Truong] - [Lynda.com] |
+|        ![Soon][soon]        |        | [Learn Enough Command Line to Be Dangerous] |         [Michael Hartl]          |
+|        ![Soon][soon]        |        | [Basic Front End Development Projects]      |         [Free Code Camp]         |
+|        ![Soon][soon]        |        | [The Web Developer Bootcamp - Frond End]    |      Colt Steele - [Udemy]       |
+|        ![Soon][soon]        |        | [Front-End Web Developer Nanodegree]        |  [Udacity] - Google Scholarship  |
+|        ![Soon][soon]        |        | [JavaScript and React for Developers]       |   [Cassidy Williams] - [Udemy]   |
+|        ![Soon][soon]        |        | [Front End Development]                     |         [Free Code Camp]         |
+|        ![Soon][soon]        |        | [JavaScript30]                              |            [Wes Bos]             |
+|        ![Soon][soon]        |        | Read [JavaScript & jQuery]                  |           Jon Duckett            |
+|        ![Soon][soon]        |        | Read JavaScript: The Good Parts             |        Douglas Crockford         |
+|        ![Soon][soon]        |        | Read [You Don't know JavaScript]            |           Kyle Simpson           |
+|        ![Soon][soon]        |        | [Learn CSS Grid]                            | [Per Harald Borgen] - [Scrimba]  |
 
 [//]: # 'Reference links to courses'
 [html, css, javascript]: https://core.restart.network/
@@ -97,7 +101,7 @@
 [code igniter php framework]: https://www.codeigniter.com/user_guide/
 [official react tutorial]: https://reactjs.org/tutorial/tutorial.html
 [fundamentals of react]: https://tylermcginnis.com/free-react-bootcamp/
-[tyler mcginnis]: https://tylermcginnis.com/free-react-bootcamp/
+[react]: https://reactjs.org/tutorial/tutorial.html
 [mongodb]: https://www.thenetninja.co.uk/
 [express]: https://www.thenetninja.co.uk/
 [node.js tutorial]: https://www.thenetninja.co.uk/
@@ -122,6 +126,8 @@
 [learn css grid]: https://scrimba.com/g/gR8PTE
 [the beginner's guide to reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 [//]: # 'Reference links to tutors'
+[reval govendar]: https://www.youtube.com/watch?v=Ysf0LhP8jus
+[tyler mcginnis]: https://tylermcginnis.com/free-react-bootcamp/
 [cassidy williams]: https://twitter.com/cassidoo
 [christina truong]: https://twitter.com/christinatruong
 [lynda.com]: https://www.lynda.com
