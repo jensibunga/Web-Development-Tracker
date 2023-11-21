@@ -69,23 +69,6 @@
 |   ![Completed][completed]   | 2017   | [API]                                       |    [Restart Network Bootcamp]    |
 |   ![Completed][completed]   | 2017   | [Web Fundamentals][html, css, javascript]   |    [Restart Network Bootcamp]    |
 | ![In progress][in progress] |        | [React and Redux]                           |             [Udemy]              |
-|        ![Soon][soon]        |        | [The Beginner's Guide to Reactjs]           |  [Kent C Dodds] - [egghead.io]   |
-|        ![Soon][soon]        |        | [Workflow Tools for Web Developers]         | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |        | [Learning Git and GitHub]                   |  [Ray Villalobos] - [Lynda.com]  |
-|        ![Soon][soon]        |        | [CSS Essential Training 3]                  | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |        | [CSS Essential Training 2]                  | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |        | [Getting Your Website Online]               | [Christina Truong] - [Lynda.com] |
-|        ![Soon][soon]        |        | [Learn Enough Command Line to Be Dangerous] |         [Michael Hartl]          |
-|        ![Soon][soon]        |        | [Basic Front End Development Projects]      |         [Free Code Camp]         |
-|        ![Soon][soon]        |        | [The Web Developer Bootcamp - Frond End]    |      Colt Steele - [Udemy]       |
-|        ![Soon][soon]        |        | [Front-End Web Developer Nanodegree]        |  [Udacity] - Google Scholarship  |
-|        ![Soon][soon]        |        | [JavaScript and React for Developers]       |   [Cassidy Williams] - [Udemy]   |
-|        ![Soon][soon]        |        | [Front End Development]                     |         [Free Code Camp]         |
-|        ![Soon][soon]        |        | [JavaScript30]                              |            [Wes Bos]             |
-|        ![Soon][soon]        |        | Read [JavaScript & jQuery]                  |           Jon Duckett            |
-|        ![Soon][soon]        |        | Read JavaScript: The Good Parts             |        Douglas Crockford         |
-|        ![Soon][soon]        |        | Read [You Don't know JavaScript]            |           Kyle Simpson           |
-|        ![Soon][soon]        |        | [Learn CSS Grid]                            | [Per Harald Borgen] - [Scrimba]  |
 
 [//]: # 'Reference links to courses'
 [basic javascript]: https://scrimba.com/
